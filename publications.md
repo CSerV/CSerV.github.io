@@ -2,9 +2,10 @@
 layout: page
 title: Publications
 ---
-
+<!--
 You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
+-->
 
 <h3>
     <a name='2019'></a> 2019
@@ -12,10 +13,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>"An Overview of Speech Emotion Recognition," One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. 
-</strong><br />
+          <strong>An Overview of Speech Emotion Recognition</strong><br />
           <b>Jiawei Yu</b><br />
-          Book. (Under processing)
+           One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. (Under processing)
           <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/2/28/语音情绪识别.pdf">[PDF]</a> <br />
        </p>
     </div>
