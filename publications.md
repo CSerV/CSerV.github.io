@@ -12,42 +12,41 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong>"An Overview of Speech Emotion Recognition," One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. 
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
+          <b>Jiawei Yu</b><br />
+          Book. (Under processing)
+          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/2/28/语音情绪识别.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
-          Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
+          <strong>Phonetic-attention for Deep Speaker Verification</strong><br />
+          <b>Jiawei Yu</b>, Lantian Li, Dong Wang<br />
+          Tech report, Chinese version.
+          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/61/Phonetic_attention.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Feature Denoising for Improving Adversarial Robustness</strong><br />
-          <b>Cihang Xie</b>, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          This work ranked <b>No.1</b> in the adversarial defense track of <a href="http://hof.geekpwn.org/caad/en/index.html">CAAD 2018 Challenge</a><br />
-          <a href="https://arxiv.org/pdf/1812.03411.pdf">[PDF]</a> <a href="https://github.com/facebookresearch/ImageNet-Adversarial-Training">[CODE]</a><br />
+          <strong>Articulatory Features Based TDNN Model for Spoken Language Recognition</strong><br />
+          <b>Jiawei Yu</b>, Minghao Guo, Yanlu Xie, and Jinsong Zhang<br />
+          IEEE International Conference on Asian Language Processing (<strong>IALP</strong>), 2019. (Accepted)<br />
+          <a href="https://cserv.github.io/82.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Improving Transferability of Adversarial Examples with Input Diversity</strong><br />
-          <b>Cihang Xie</b>, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2019<br />
-          <a href="https://arxiv.org/pdf/1803.06978.pdf">[PDF]</a> <a href="https://github.com/cihangxie/DI-2-FGSM">[CODE]</a><br />
+          <strong>Zero-resource Language Recognition</strong><br />
+          <b>Jiawei Yu</b> and Jinsong Zhang<br />
+          IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (<strong>APSIPA ASC</strong>), 2019. (Accepted)<br />
+          <a href="https://cserv.github.io/v4.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
@@ -57,13 +56,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Single-Shot Object Detection with Enriched Semantics</strong><br />
-          Zhishuai Zhang, Siyuan Qiao, <b>Cihang Xie</b>, Wei Shen, Bo Wang, Alan Yuille<br />
-          IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2018<br />
-          <a href="https://arxiv.org/pdf/1712.00433.pdf">[PDF]</a> <a href="https://github.com/bairdzhang/des">[CODE]</a><br />
+          <strong>Robust Language Identification using X-vectors</strong><br />
+          <b>Jiawei Yu</b>, Yanlu Xie, Jinsong Zhang<br />
+          proceedings of the 13th Phonetics Conference of China (<strong>PCC</strong>), 2018<br />
+          <a href="https://cserv.github.io/PCC-lid.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
+
+<!--
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -151,4 +152,4 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        </p>
     </div>
 </div>
-
+-->
