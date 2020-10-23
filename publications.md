@@ -8,6 +8,21 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 -->
 
 <h3>
+    <a name='2020'></a> 2020
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Articulatory Features Based Dilated LSTM Model for Short Utterance Language Recognition</strong><br />
+          <b>Jiawei Yu</b>, Minghao Guo, and Jinsong Zhang<br />
+          IEEE Spoken Language Technology Workshop (<strong>SLT</strong>), 2020. (submitted)<br />
+          <a href="https://cserv.github.io/Template_Regular.pdf">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+
+
+<h3>
     <a name='2019'></a> 2019
 </h3>
 <div class="media">
@@ -35,7 +50,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>Articulatory Features Based TDNN Model for Spoken Language Recognition</strong><br />
           <b>Jiawei Yu</b>, Minghao Guo, Yanlu Xie, and Jinsong Zhang<br />
-          IEEE International Conference on Asian Language Processing (<strong>IALP</strong>), 2019. (Accepted)<br />
+          IEEE International Conference on Asian Language Processing (<strong>IALP</strong>), 2019.<br />
           <a href="https://cserv.github.io/82.pdf">[PDF]</a> <br />
        </p>
     </div>
@@ -45,7 +60,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>Zero-resource Language Recognition</strong><br />
           <b>Jiawei Yu</b> and Jinsong Zhang<br />
-          IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (<strong>APSIPA ASC</strong>), 2019. (Accepted)<br />
+          IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (<strong>APSIPA ASC</strong>), 2019.<br />
           <a href="https://cserv.github.io/v4.pdf">[PDF]</a> <br />
        </p>
     </div>
