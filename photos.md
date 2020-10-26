@@ -7,6 +7,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <br />
 -->
 
+avatar: "/img/photo-mine.png"
+
 <h3>
     <a name='2020'></a> 2020
 </h3>
