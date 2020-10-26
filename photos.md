@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Photos
 ---
 <!--
 You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
