@@ -16,7 +16,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
     <div class="media-body">
        <p class="media-heading">
           <strong>Articulatory Features Based Dilated LSTM Model for Short Utterance Language Recognition</strong><br />
-          <img src="https://github.com/CSerV/CSerV.github.io/blob/master/img/photo-mine.png" alt="some_text" width="304" height="228" >
+          <img src="https://www.runoob.com/images/pulpit.jpg" alt="some_text" width="304" height="228" >
        </p>
     </div>
 </div>
