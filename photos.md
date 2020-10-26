@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <br />
 -->
 
-avatar: "/img/photo-mine.png"
+
 
 <h3>
     <a name='2020'></a> 2020
@@ -16,9 +16,7 @@ avatar: "/img/photo-mine.png"
     <div class="media-body">
        <p class="media-heading">
           <strong>Articulatory Features Based Dilated LSTM Model for Short Utterance Language Recognition</strong><br />
-          <b>Jiawei Yu</b>, Minghao Guo, and Jinsong Zhang<br />
-          IEEE Spoken Language Technology Workshop (<strong>SLT</strong>), 2020. (submitted)<br />
-          <a href="https://cserv.github.io/Template_Regular.pdf">[PDF]</a> <br />
+          <img src="https://www.runoob.com/images/pulpit.jpg" alt="some_text">
        </p>
     </div>
 </div>
