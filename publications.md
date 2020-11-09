@@ -40,7 +40,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>Phonetic-attention for Deep Speaker Verification</strong><br />
           <b>Jiawei Yu</b>, Lantian Li, Dong Wang<br />
-          Tech report, Chinese version.
+          Tech report, <b>Chinese version</b>.
           <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/61/Phonetic_attention.pdf">[PDF]</a> <br />
        </p>
     </div>
@@ -73,7 +73,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>Robust Language Identification using X-vectors</strong><br />
           <b>Jiawei Yu</b>, Yanlu Xie, Jinsong Zhang<br />
-          proceedings of the 13th Phonetics Conference of China (<strong>PCC</strong>), 2018. Chinese version.<br />
+          proceedings of the 13th Phonetics Conference of China (<strong>PCC</strong>), 2018. <b>Chinese version</b>.<br />
           <a href="https://cserv.github.io/PCC-lid.pdf">[PDF]</a> <br />
        </p>
     </div>
