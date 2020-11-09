@@ -30,7 +30,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
        <p class="media-heading">
           <strong>An Overview of Speech Emotion Recognition</strong><br />
           <b>Jiawei Yu</b><br />
-           One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. Chinese version (Under processing)
+           One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. <b>Chinese version</b> (Under processing)
           <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/2/28/语音情绪识别.pdf">[PDF]</a> <br />
        </p>
     </div>
