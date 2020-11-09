@@ -28,26 +28,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>An Overview of Speech Emotion Recognition</strong><br />
-          <b>Jiawei Yu</b><br />
-           One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. <b>Chinese version</b> (Under processing)
-          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/2/28/语音情绪识别.pdf">[PDF]</a> <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Phonetic-attention for Deep Speaker Verification</strong><br />
-          <b>Jiawei Yu</b>, Lantian Li, Dong Wang<br />
-          Tech report, <b>Chinese version</b>.
-          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/61/Phonetic_attention.pdf">[PDF]</a> <br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>Articulatory Features Based TDNN Model for Spoken Language Recognition</strong><br />
           <b>Jiawei Yu</b>, Minghao Guo, Yanlu Xie, and Jinsong Zhang<br />
           IEEE International Conference on Asian Language Processing (<strong>IALP</strong>), 2019.<br />
@@ -62,6 +42,26 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
           <b>Jiawei Yu</b> and Jinsong Zhang<br />
           IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (<strong>APSIPA ASC</strong>), 2019.<br />
           <a href="https://cserv.github.io/v4.pdf">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>An Overview of Speech Emotion Recognition</strong><br />
+          <b>Jiawei Yu</b><br />
+           One chapter in the book "Basic Law for ASR" in Center for Speech and Language Technologies(CSLT) internal in Tsinghua University, 2019. <b>Chinese version</b> (Under processing)
+          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/2/28/语音情绪识别.pdf">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Phonetic-attention for Deep Speaker Verification</strong><br />
+          <b>Jiawei Yu</b>, Lantian Li, Dong Wang<br />
+          Tech report, <b>Chinese version</b>.
+          <a href="http://cslt.riit.tsinghua.edu.cn/mediawiki/images/6/61/Phonetic_attention.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
