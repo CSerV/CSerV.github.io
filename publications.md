@@ -8,15 +8,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
 -->
 
 <h3>
-    <a name='2020'></a> 2020
+    <a name='2023'></a> 2023
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>Articulatory Features Based Dilated LSTM Model for Short Utterance Language Recognition</strong><br />
           <b>Jiawei Yu</b>, Minghao Guo, and Jinsong Zhang<br />
-          IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2021. (rejected)<br />
-          <a href="https://cserv.github.io/icassp2021.pdf">[PDF]</a> <br />
+          IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2023. (submitted)<br />
+          <a href="https://cserv.github.io/icassp2023.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
